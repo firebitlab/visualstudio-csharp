@@ -1,0 +1,97 @@
+E:\Kerja\0318 Anin DONE\Lampu Andong\Lampu Andong\obj\Debug\My Project.csprojAssemblyReference.cache
+E:\Kerja\0318 Anin DONE\Lampu Andong\Lampu Andong\obj\Debug\Interop.WMPLib.dll
+E:\Kerja\0318 Anin DONE\Lampu Andong\Lampu Andong\obj\Debug\AxInterop.WMPLib.dll
+E:\Kerja\0318 Anin DONE\Lampu Andong\Lampu Andong\obj\Debug\My Project.csproj.ResolveComReference.cache
+E:\Kerja\0318 Anin DONE\Lampu Andong\Lampu Andong\obj\Debug\My_Project.Properties.Resources.resources
+E:\Kerja\0318 Anin DONE\Lampu Andong\Lampu Andong\obj\Debug\My Project.csproj.GenerateResource.cache
+E:\Kerja\0318 Anin DONE\Lampu Andong\Lampu Andong\obj\Debug\My Project.csproj.CoreCompileInputs.cache
+E:\Kerja\0318 Anin DONE\Lampu Andong\Lampu Andong\obj\Debug\My_Project.FormSetting.resources
+E:\Kerja\0318 Anin DONE\Lampu Andong\Lampu Andong\bin\Debug\My Project.exe.config
+E:\Kerja\0318 Anin DONE\Lampu Andong\Lampu Andong\bin\Debug\My Project.exe
+E:\Kerja\0318 Anin DONE\Lampu Andong\Lampu Andong\bin\Debug\My Project.pdb
+E:\Kerja\0318 Anin DONE\Lampu Andong\Lampu Andong\bin\Debug\ZedGraph.dll
+E:\Kerja\0318 Anin DONE\Lampu Andong\Lampu Andong\bin\Debug\Interop.WMPLib.dll
+E:\Kerja\0318 Anin DONE\Lampu Andong\Lampu Andong\bin\Debug\AxInterop.WMPLib.dll
+E:\Kerja\0318 Anin DONE\Lampu Andong\Lampu Andong\obj\Debug\My Project.csproj.CopyComplete
+E:\Kerja\0318 Anin DONE\Lampu Andong\Lampu Andong\obj\Debug\My Project.exe
+E:\Kerja\0318 Anin DONE\Lampu Andong\Lampu Andong\obj\Debug\My Project.pdb
+E:\Kerja\0318 Anin DONE\My Interface\My Project\obj\Debug\My Project.csprojAssemblyReference.cache
+E:\Kerja\0318 Anin DONE\My Interface\My Project\obj\Debug\Interop.WMPLib.dll
+E:\Kerja\0318 Anin DONE\My Interface\My Project\obj\Debug\AxInterop.WMPLib.dll
+E:\Kerja\0318 Anin DONE\My Interface\My Project\obj\Debug\My Project.csproj.ResolveComReference.cache
+E:\Kerja\0318 Anin DONE\My Interface\My Project\obj\Debug\My_Project.Form_main.resources
+E:\Kerja\0318 Anin DONE\My Interface\My Project\obj\Debug\My Project.csproj.GenerateResource.cache
+E:\Kerja\0318 Anin DONE\My Interface\My Project\obj\Debug\My Project.exe
+E:\Kerja\0318 Anin DONE\My Interface\My Project\obj\Debug\My Project.pdb
+E:\Kerja\0318 Anin DONE\My Interface\My Project\obj\Debug\My_Project.Properties.Resources.resources
+E:\Kerja\0318 Anin DONE\My Interface\My Project\obj\Debug\My Project.csproj.CoreCompileInputs.cache
+E:\Kerja\0318 Anin DONE\My Interface\My Project\bin\Debug\My Project.exe.config
+E:\Kerja\0318 Anin DONE\My Interface\My Project\bin\Debug\My Project.exe
+E:\Kerja\0318 Anin DONE\My Interface\My Project\bin\Debug\My Project.pdb
+E:\Kerja\0318 Anin DONE\My Interface\My Project\bin\Debug\ZedGraph.dll
+E:\Kerja\0318 Anin DONE\My Interface\My Project\bin\Debug\Interop.WMPLib.dll
+E:\Kerja\0318 Anin DONE\My Interface\My Project\bin\Debug\AxInterop.WMPLib.dll
+E:\Kerja\0318 Anin DONE\My Interface\My Project\obj\Debug\My Project.csproj.CopyComplete
+C:\TEMPD\My Interface\My Project\bin\Debug\My Project.exe.config
+C:\TEMPD\My Interface\My Project\bin\Debug\My Project.exe
+C:\TEMPD\My Interface\My Project\bin\Debug\My Project.pdb
+C:\TEMPD\My Interface\My Project\bin\Debug\Interop.WMPLib.dll
+C:\TEMPD\My Interface\My Project\bin\Debug\AxInterop.WMPLib.dll
+C:\TEMPD\My Interface\My Project\obj\Debug\My Project.csprojAssemblyReference.cache
+C:\TEMPD\My Interface\My Project\obj\Debug\Interop.WMPLib.dll
+C:\TEMPD\My Interface\My Project\obj\Debug\AxInterop.WMPLib.dll
+C:\TEMPD\My Interface\My Project\obj\Debug\My Project.csproj.ResolveComReference.cache
+C:\TEMPD\My Interface\My Project\obj\Debug\My_Project.Form_main.resources
+C:\TEMPD\My Interface\My Project\obj\Debug\My_Project.Properties.Resources.resources
+C:\TEMPD\My Interface\My Project\obj\Debug\My Project.csproj.GenerateResource.cache
+C:\TEMPD\My Interface\My Project\obj\Debug\My Project.csproj.CoreCompileInputs.cache
+C:\TEMPD\My Interface\My Project\obj\Debug\My Project.csproj.CopyComplete
+C:\TEMPD\My Interface\My Project\obj\Debug\My Project.exe
+C:\TEMPD\My Interface\My Project\obj\Debug\My Project.pdb
+C:\Users\digiace\Desktop\Modul Kapal\My Interface\My Project\obj\Debug\My Project.csproj.AssemblyReference.cache
+C:\Users\digiace\Desktop\Modul Kapal\My Interface\My Project\obj\Debug\Interop.WMPLib.dll
+C:\Users\digiace\Desktop\Modul Kapal\My Interface\My Project\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\digiace\Desktop\Modul Kapal\My Interface\My Project\obj\Debug\My Project.csproj.ResolveComReference.cache
+C:\Users\digiace\Desktop\Modul Kapal\My Interface\My Project\obj\Debug\My_Project.Form_main.resources
+C:\Users\digiace\Desktop\Modul Kapal\My Interface\My Project\obj\Debug\My_Project.Properties.Resources.resources
+C:\Users\digiace\Desktop\Modul Kapal\My Interface\My Project\obj\Debug\My Project.csproj.GenerateResource.cache
+C:\Users\digiace\Desktop\Modul Kapal\My Interface\My Project\obj\Debug\My Project.csproj.CoreCompileInputs.cache
+C:\Users\digiace\Desktop\Modul Kapal\My Interface\My Project\obj\Debug\My Project.exe
+C:\Users\digiace\Desktop\Modul Kapal\My Interface\My Project\obj\Debug\My Project.pdb
+C:\Users\digiace\Desktop\Modul Kapal\My Interface\My Project\bin\Debug\My Project.exe.config
+C:\Users\digiace\Desktop\Modul Kapal\My Interface\My Project\bin\Debug\My Project.exe
+C:\Users\digiace\Desktop\Modul Kapal\My Interface\My Project\bin\Debug\My Project.pdb
+C:\Users\digiace\Desktop\Modul Kapal\My Interface\My Project\bin\Debug\Interop.WMPLib.dll
+C:\Users\digiace\Desktop\Modul Kapal\My Interface\My Project\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\digiace\Desktop\Modul Kapal\My Interface\My Project\obj\Debug\My Project.csproj.CopyComplete
+C:\Users\digiace\Desktop\Modul Kapal\My Interface\My Project\bin\Debug\AGauge.dll
+C:\Users\toro\Downloads\drive-download-20230313T123831Z-001\Modul Kapal\My Interface\My Project\bin\Debug\My Project.exe.config
+C:\Users\toro\Downloads\drive-download-20230313T123831Z-001\Modul Kapal\My Interface\My Project\obj\Debug\Interop.WMPLib.dll
+C:\Users\toro\Downloads\drive-download-20230313T123831Z-001\Modul Kapal\My Interface\My Project\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\toro\Downloads\drive-download-20230313T123831Z-001\Modul Kapal\My Interface\My Project\obj\Debug\My Project.csproj.ResolveComReference.cache
+C:\Users\toro\Downloads\drive-download-20230313T123831Z-001\Modul Kapal\My Interface\My Project\obj\Debug\My Project.exe
+C:\Users\toro\Downloads\drive-download-20230313T123831Z-001\Modul Kapal\My Interface\My Project\obj\Debug\My Project.pdb
+C:\Users\toro\Downloads\drive-download-20230313T123831Z-001\Modul Kapal\My Interface\My Project\bin\Debug\My Project.exe
+C:\Users\toro\Downloads\drive-download-20230313T123831Z-001\Modul Kapal\My Interface\My Project\bin\Debug\My Project.pdb
+C:\Users\toro\Downloads\drive-download-20230313T123831Z-001\Modul Kapal\My Interface\My Project\bin\Debug\AGauge.dll
+C:\Users\toro\Downloads\drive-download-20230313T123831Z-001\Modul Kapal\My Interface\My Project\bin\Debug\Interop.WMPLib.dll
+C:\Users\toro\Downloads\drive-download-20230313T123831Z-001\Modul Kapal\My Interface\My Project\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\toro\Downloads\drive-download-20230313T123831Z-001\Modul Kapal\My Interface\My Project\obj\Debug\My Project.csprojResolveAssemblyReference.cache
+C:\Users\toro\Downloads\drive-download-20230313T123831Z-001\Modul Kapal\My Interface\My Project\obj\Debug\My_Project.Form_main.resources
+C:\Users\toro\Downloads\drive-download-20230313T123831Z-001\Modul Kapal\My Interface\My Project\obj\Debug\My_Project.Properties.Resources.resources
+C:\Users\toro\Downloads\drive-download-20230313T123831Z-001\Modul Kapal\My Interface\My Project\obj\Debug\My Project.csproj.GenerateResource.Cache
+C:\Users\toro\Downloads\drive-download-20230313T123831Z-001\My Interface\My Project\bin\Debug\My Project.exe.config
+C:\Users\toro\Downloads\drive-download-20230313T123831Z-001\My Interface\My Project\obj\Debug\Interop.WMPLib.dll
+C:\Users\toro\Downloads\drive-download-20230313T123831Z-001\My Interface\My Project\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\toro\Downloads\drive-download-20230313T123831Z-001\My Interface\My Project\obj\Debug\My Project.csproj.ResolveComReference.cache
+C:\Users\toro\Downloads\drive-download-20230313T123831Z-001\My Interface\My Project\obj\Debug\My Project.exe
+C:\Users\toro\Downloads\drive-download-20230313T123831Z-001\My Interface\My Project\obj\Debug\My Project.pdb
+C:\Users\toro\Downloads\drive-download-20230313T123831Z-001\My Interface\My Project\bin\Debug\My Project.exe
+C:\Users\toro\Downloads\drive-download-20230313T123831Z-001\My Interface\My Project\bin\Debug\My Project.pdb
+C:\Users\toro\Downloads\drive-download-20230313T123831Z-001\My Interface\My Project\bin\Debug\AGauge.dll
+C:\Users\toro\Downloads\drive-download-20230313T123831Z-001\My Interface\My Project\bin\Debug\Interop.WMPLib.dll
+C:\Users\toro\Downloads\drive-download-20230313T123831Z-001\My Interface\My Project\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\toro\Downloads\drive-download-20230313T123831Z-001\My Interface\My Project\obj\Debug\My Project.csprojResolveAssemblyReference.cache
+C:\Users\toro\Downloads\drive-download-20230313T123831Z-001\My Interface\My Project\obj\Debug\My_Project.Form_main.resources
+C:\Users\toro\Downloads\drive-download-20230313T123831Z-001\My Interface\My Project\obj\Debug\My_Project.Properties.Resources.resources
+C:\Users\toro\Downloads\drive-download-20230313T123831Z-001\My Interface\My Project\obj\Debug\My Project.csproj.GenerateResource.Cache

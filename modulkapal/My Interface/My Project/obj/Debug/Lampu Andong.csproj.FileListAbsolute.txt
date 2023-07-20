@@ -1,0 +1,133 @@
+G:\PROJECT\PROGRAM\JAI\Lampu Andong\Lampu Andong\bin\Debug\Lampu Andong.exe.config
+G:\PROJECT\PROGRAM\JAI\Lampu Andong\Lampu Andong\bin\Debug\Lampu Andong.exe
+G:\PROJECT\PROGRAM\JAI\Lampu Andong\Lampu Andong\bin\Debug\Lampu Andong.pdb
+G:\PROJECT\PROGRAM\JAI\Lampu Andong\Lampu Andong\obj\Debug\Lampu Andong.csprojResolveAssemblyReference.cache
+G:\PROJECT\PROGRAM\JAI\Lampu Andong\Lampu Andong\obj\Debug\Lampu_Andong.Form1.resources
+G:\PROJECT\PROGRAM\JAI\Lampu Andong\Lampu Andong\obj\Debug\Lampu_Andong.Properties.Resources.resources
+G:\PROJECT\PROGRAM\JAI\Lampu Andong\Lampu Andong\obj\Debug\Lampu Andong.csproj.GenerateResource.Cache
+G:\PROJECT\PROGRAM\JAI\Lampu Andong\Lampu Andong\obj\Debug\Lampu Andong.exe
+G:\PROJECT\PROGRAM\JAI\Lampu Andong\Lampu Andong\obj\Debug\Lampu Andong.pdb
+G:\PROJECT\PROGRAM\JAI\Lampu Andong\Lampu Andong\bin\Debug\Interop.WMPLib.dll
+G:\PROJECT\PROGRAM\JAI\Lampu Andong\Lampu Andong\bin\Debug\AxInterop.WMPLib.dll
+G:\PROJECT\PROGRAM\JAI\Lampu Andong\Lampu Andong\obj\Debug\Interop.WMPLib.dll
+G:\PROJECT\PROGRAM\JAI\Lampu Andong\Lampu Andong\obj\Debug\AxInterop.WMPLib.dll
+G:\PROJECT\PROGRAM\JAI\Lampu Andong\Lampu Andong\obj\Debug\Lampu Andong.csproj.ResolveComReference.cache
+G:\PROJECT\PROGRAM\JAI\Lampu Andong\Lampu Andong\obj\Debug\Lampu_Andong.FormSetting.resources
+D:\5 Kerja\BJT JOSS\170603 JAI 1000\170823 Pak Lani Display Andong\JAI\Lampu Andong\Lampu Andong\bin\Debug\Lampu Andong.exe.config
+D:\5 Kerja\BJT JOSS\170603 JAI 1000\170823 Pak Lani Display Andong\JAI\Lampu Andong\Lampu Andong\bin\Debug\Lampu Andong.exe
+D:\5 Kerja\BJT JOSS\170603 JAI 1000\170823 Pak Lani Display Andong\JAI\Lampu Andong\Lampu Andong\bin\Debug\Lampu Andong.pdb
+D:\5 Kerja\BJT JOSS\170603 JAI 1000\170823 Pak Lani Display Andong\JAI\Lampu Andong\Lampu Andong\bin\Debug\Interop.WMPLib.dll
+D:\5 Kerja\BJT JOSS\170603 JAI 1000\170823 Pak Lani Display Andong\JAI\Lampu Andong\Lampu Andong\bin\Debug\AxInterop.WMPLib.dll
+D:\5 Kerja\BJT JOSS\170603 JAI 1000\170823 Pak Lani Display Andong\JAI\Lampu Andong\Lampu Andong\obj\Debug\Lampu Andong.csprojResolveAssemblyReference.cache
+D:\5 Kerja\BJT JOSS\170603 JAI 1000\170823 Pak Lani Display Andong\JAI\Lampu Andong\Lampu Andong\obj\Debug\Interop.WMPLib.dll
+D:\5 Kerja\BJT JOSS\170603 JAI 1000\170823 Pak Lani Display Andong\JAI\Lampu Andong\Lampu Andong\obj\Debug\AxInterop.WMPLib.dll
+D:\5 Kerja\BJT JOSS\170603 JAI 1000\170823 Pak Lani Display Andong\JAI\Lampu Andong\Lampu Andong\obj\Debug\Lampu Andong.csproj.ResolveComReference.cache
+D:\5 Kerja\BJT JOSS\170603 JAI 1000\170823 Pak Lani Display Andong\JAI\Lampu Andong\Lampu Andong\obj\Debug\Lampu_Andong.Form1.resources
+D:\5 Kerja\BJT JOSS\170603 JAI 1000\170823 Pak Lani Display Andong\JAI\Lampu Andong\Lampu Andong\obj\Debug\Lampu_Andong.FormSetting.resources
+D:\5 Kerja\BJT JOSS\170603 JAI 1000\170823 Pak Lani Display Andong\JAI\Lampu Andong\Lampu Andong\obj\Debug\Lampu_Andong.Properties.Resources.resources
+D:\5 Kerja\BJT JOSS\170603 JAI 1000\170823 Pak Lani Display Andong\JAI\Lampu Andong\Lampu Andong\obj\Debug\Lampu Andong.csproj.GenerateResource.Cache
+D:\5 Kerja\BJT JOSS\170603 JAI 1000\170823 Pak Lani Display Andong\JAI\Lampu Andong\Lampu Andong\obj\Debug\Lampu Andong.exe
+D:\5 Kerja\BJT JOSS\170603 JAI 1000\170823 Pak Lani Display Andong\JAI\Lampu Andong\Lampu Andong\obj\Debug\Lampu Andong.pdb
+D:\5 Kerja\BJT JOSS\170603 JAI 1000\170823 Pak Lani Display Andong\JAI\Lampu Andong Suar\Lampu Andong\bin\Debug\Lampu Andong.exe.config
+D:\5 Kerja\BJT JOSS\170603 JAI 1000\170823 Pak Lani Display Andong\JAI\Lampu Andong Suar\Lampu Andong\obj\Debug\Interop.WMPLib.dll
+D:\5 Kerja\BJT JOSS\170603 JAI 1000\170823 Pak Lani Display Andong\JAI\Lampu Andong Suar\Lampu Andong\obj\Debug\AxInterop.WMPLib.dll
+D:\5 Kerja\BJT JOSS\170603 JAI 1000\170823 Pak Lani Display Andong\JAI\Lampu Andong Suar\Lampu Andong\obj\Debug\Lampu Andong.csproj.ResolveComReference.cache
+D:\5 Kerja\BJT JOSS\170603 JAI 1000\170823 Pak Lani Display Andong\JAI\Lampu Andong Suar\Lampu Andong\obj\Debug\Lampu Andong.exe
+D:\5 Kerja\BJT JOSS\170603 JAI 1000\170823 Pak Lani Display Andong\JAI\Lampu Andong Suar\Lampu Andong\obj\Debug\Lampu Andong.pdb
+D:\5 Kerja\BJT JOSS\170603 JAI 1000\170823 Pak Lani Display Andong\JAI\Lampu Andong Suar\Lampu Andong\bin\Debug\Lampu Andong.exe
+D:\5 Kerja\BJT JOSS\170603 JAI 1000\170823 Pak Lani Display Andong\JAI\Lampu Andong Suar\Lampu Andong\bin\Debug\Lampu Andong.pdb
+D:\5 Kerja\BJT JOSS\170603 JAI 1000\170823 Pak Lani Display Andong\JAI\Lampu Andong Suar\Lampu Andong\bin\Debug\Interop.WMPLib.dll
+D:\5 Kerja\BJT JOSS\170603 JAI 1000\170823 Pak Lani Display Andong\JAI\Lampu Andong Suar\Lampu Andong\bin\Debug\AxInterop.WMPLib.dll
+D:\5 Kerja\BJT JOSS\170603 JAI 1000\170823 Pak Lani Display Andong\JAI\Lampu Andong Suar\Lampu Andong\obj\Debug\Lampu Andong.csprojResolveAssemblyReference.cache
+D:\5 Kerja\BJT JOSS\170603 JAI 1000\170823 Pak Lani Display Andong\JAI\Lampu Andong Suar\Lampu Andong\obj\Debug\Lampu_Andong.Form1.resources
+D:\5 Kerja\BJT JOSS\170603 JAI 1000\170823 Pak Lani Display Andong\JAI\Lampu Andong Suar\Lampu Andong\obj\Debug\Lampu_Andong.FormSetting.resources
+D:\5 Kerja\BJT JOSS\170603 JAI 1000\170823 Pak Lani Display Andong\JAI\Lampu Andong Suar\Lampu Andong\obj\Debug\Lampu_Andong.Properties.Resources.resources
+D:\5 Kerja\BJT JOSS\170603 JAI 1000\170823 Pak Lani Display Andong\JAI\Lampu Andong Suar\Lampu Andong\obj\Debug\Lampu Andong.csproj.GenerateResource.Cache
+G:\PROJECT\PROGRAM\MANUAL BOOK\SUARA BARU\Lampu Andong\Lampu Andong\bin\Debug\Lampu Andong.exe.config
+G:\PROJECT\PROGRAM\MANUAL BOOK\SUARA BARU\Lampu Andong\Lampu Andong\obj\Debug\Interop.WMPLib.dll
+G:\PROJECT\PROGRAM\MANUAL BOOK\SUARA BARU\Lampu Andong\Lampu Andong\obj\Debug\AxInterop.WMPLib.dll
+G:\PROJECT\PROGRAM\MANUAL BOOK\SUARA BARU\Lampu Andong\Lampu Andong\obj\Debug\Lampu Andong.csproj.ResolveComReference.cache
+G:\PROJECT\PROGRAM\MANUAL BOOK\SUARA BARU\Lampu Andong\Lampu Andong\obj\Debug\Lampu Andong.exe
+G:\PROJECT\PROGRAM\MANUAL BOOK\SUARA BARU\Lampu Andong\Lampu Andong\obj\Debug\Lampu Andong.pdb
+G:\PROJECT\PROGRAM\MANUAL BOOK\SUARA BARU\Lampu Andong\Lampu Andong\bin\Debug\Lampu Andong.exe
+G:\PROJECT\PROGRAM\MANUAL BOOK\SUARA BARU\Lampu Andong\Lampu Andong\bin\Debug\Lampu Andong.pdb
+G:\PROJECT\PROGRAM\MANUAL BOOK\SUARA BARU\Lampu Andong\Lampu Andong\bin\Debug\Interop.WMPLib.dll
+G:\PROJECT\PROGRAM\MANUAL BOOK\SUARA BARU\Lampu Andong\Lampu Andong\bin\Debug\AxInterop.WMPLib.dll
+G:\PROJECT\PROGRAM\MANUAL BOOK\SUARA BARU\Lampu Andong\Lampu Andong\obj\Debug\Lampu Andong.csprojResolveAssemblyReference.cache
+G:\PROJECT\PROGRAM\MANUAL BOOK\SUARA BARU\Lampu Andong\Lampu Andong\obj\Debug\Lampu_Andong.Form1.resources
+G:\PROJECT\PROGRAM\MANUAL BOOK\SUARA BARU\Lampu Andong\Lampu Andong\obj\Debug\Lampu_Andong.FormSetting.resources
+G:\PROJECT\PROGRAM\MANUAL BOOK\SUARA BARU\Lampu Andong\Lampu Andong\obj\Debug\Lampu_Andong.Properties.Resources.resources
+G:\PROJECT\PROGRAM\MANUAL BOOK\SUARA BARU\Lampu Andong\Lampu Andong\obj\Debug\Lampu Andong.csproj.GenerateResource.Cache
+D:\5 Kerja\BJT JOSS\170603 JAI 1000\170823 Pak Lani Display Andong\PROBLEM 12 Januari\Lampu Andong\Lampu Andong\bin\Debug\Lampu Andong.exe.config
+D:\5 Kerja\BJT JOSS\170603 JAI 1000\170823 Pak Lani Display Andong\PROBLEM 12 Januari\Lampu Andong\Lampu Andong\obj\Debug\Interop.WMPLib.dll
+D:\5 Kerja\BJT JOSS\170603 JAI 1000\170823 Pak Lani Display Andong\PROBLEM 12 Januari\Lampu Andong\Lampu Andong\obj\Debug\AxInterop.WMPLib.dll
+D:\5 Kerja\BJT JOSS\170603 JAI 1000\170823 Pak Lani Display Andong\PROBLEM 12 Januari\Lampu Andong\Lampu Andong\obj\Debug\Lampu Andong.csproj.ResolveComReference.cache
+D:\5 Kerja\BJT JOSS\170603 JAI 1000\170823 Pak Lani Display Andong\PROBLEM 12 Januari\Lampu Andong\Lampu Andong\obj\Debug\Lampu Andong.exe
+D:\5 Kerja\BJT JOSS\170603 JAI 1000\170823 Pak Lani Display Andong\PROBLEM 12 Januari\Lampu Andong\Lampu Andong\obj\Debug\Lampu Andong.pdb
+D:\5 Kerja\BJT JOSS\170603 JAI 1000\170823 Pak Lani Display Andong\PROBLEM 12 Januari\Lampu Andong\Lampu Andong\bin\Debug\Lampu Andong.exe
+D:\5 Kerja\BJT JOSS\170603 JAI 1000\170823 Pak Lani Display Andong\PROBLEM 12 Januari\Lampu Andong\Lampu Andong\bin\Debug\Lampu Andong.pdb
+D:\5 Kerja\BJT JOSS\170603 JAI 1000\170823 Pak Lani Display Andong\PROBLEM 12 Januari\Lampu Andong\Lampu Andong\bin\Debug\Interop.WMPLib.dll
+D:\5 Kerja\BJT JOSS\170603 JAI 1000\170823 Pak Lani Display Andong\PROBLEM 12 Januari\Lampu Andong\Lampu Andong\bin\Debug\AxInterop.WMPLib.dll
+D:\5 Kerja\BJT JOSS\170603 JAI 1000\170823 Pak Lani Display Andong\PROBLEM 12 Januari\Lampu Andong\Lampu Andong\obj\Debug\Lampu Andong.csprojResolveAssemblyReference.cache
+D:\5 Kerja\BJT JOSS\170603 JAI 1000\170823 Pak Lani Display Andong\PROBLEM 12 Januari\Lampu Andong\Lampu Andong\obj\Debug\Lampu_Andong.Form1.resources
+D:\5 Kerja\BJT JOSS\170603 JAI 1000\170823 Pak Lani Display Andong\PROBLEM 12 Januari\Lampu Andong\Lampu Andong\obj\Debug\Lampu_Andong.FormSetting.resources
+D:\5 Kerja\BJT JOSS\170603 JAI 1000\170823 Pak Lani Display Andong\PROBLEM 12 Januari\Lampu Andong\Lampu Andong\obj\Debug\Lampu_Andong.Properties.Resources.resources
+D:\5 Kerja\BJT JOSS\170603 JAI 1000\170823 Pak Lani Display Andong\PROBLEM 12 Januari\Lampu Andong\Lampu Andong\obj\Debug\Lampu Andong.csproj.GenerateResource.Cache
+E:\BJT JOSS\170603 JAI 1000\170823 Pak Lani Display Andong\PROBLEM 16 Januari 1 tombol\Lampu Andong\Lampu Andong\bin\Debug\Lampu Andong.exe.config
+E:\BJT JOSS\170603 JAI 1000\170823 Pak Lani Display Andong\PROBLEM 16 Januari 1 tombol\Lampu Andong\Lampu Andong\obj\Debug\Interop.WMPLib.dll
+E:\BJT JOSS\170603 JAI 1000\170823 Pak Lani Display Andong\PROBLEM 16 Januari 1 tombol\Lampu Andong\Lampu Andong\obj\Debug\AxInterop.WMPLib.dll
+E:\BJT JOSS\170603 JAI 1000\170823 Pak Lani Display Andong\PROBLEM 16 Januari 1 tombol\Lampu Andong\Lampu Andong\obj\Debug\Lampu Andong.csproj.ResolveComReference.cache
+E:\BJT JOSS\170603 JAI 1000\170823 Pak Lani Display Andong\PROBLEM 16 Januari 1 tombol\Lampu Andong\Lampu Andong\obj\Debug\Lampu Andong.exe
+E:\BJT JOSS\170603 JAI 1000\170823 Pak Lani Display Andong\PROBLEM 16 Januari 1 tombol\Lampu Andong\Lampu Andong\obj\Debug\Lampu Andong.pdb
+D:\5 Kerja\Riset Bersama\2015-2017\170603 JAI 1000\170823 Pak Lani Display Andong\Progam\PROBLEM 16 Januari 1 tombol\Lampu Andong\Lampu Andong\bin\Debug\Lampu Andong.exe.config
+D:\5 Kerja\Riset Bersama\2015-2017\170603 JAI 1000\170823 Pak Lani Display Andong\Progam\PROBLEM 16 Januari 1 tombol\Lampu Andong\Lampu Andong\bin\Debug\Lampu Andong.exe
+D:\5 Kerja\Riset Bersama\2015-2017\170603 JAI 1000\170823 Pak Lani Display Andong\Progam\PROBLEM 16 Januari 1 tombol\Lampu Andong\Lampu Andong\bin\Debug\Lampu Andong.pdb
+D:\5 Kerja\Riset Bersama\2015-2017\170603 JAI 1000\170823 Pak Lani Display Andong\Progam\PROBLEM 16 Januari 1 tombol\Lampu Andong\Lampu Andong\bin\Debug\Interop.WMPLib.dll
+D:\5 Kerja\Riset Bersama\2015-2017\170603 JAI 1000\170823 Pak Lani Display Andong\Progam\PROBLEM 16 Januari 1 tombol\Lampu Andong\Lampu Andong\bin\Debug\AxInterop.WMPLib.dll
+D:\5 Kerja\Riset Bersama\2015-2017\170603 JAI 1000\170823 Pak Lani Display Andong\Progam\PROBLEM 16 Januari 1 tombol\Lampu Andong\Lampu Andong\obj\Debug\Lampu Andong.csprojAssemblyReference.cache
+D:\5 Kerja\Riset Bersama\2015-2017\170603 JAI 1000\170823 Pak Lani Display Andong\Progam\PROBLEM 16 Januari 1 tombol\Lampu Andong\Lampu Andong\obj\Debug\Interop.WMPLib.dll
+D:\5 Kerja\Riset Bersama\2015-2017\170603 JAI 1000\170823 Pak Lani Display Andong\Progam\PROBLEM 16 Januari 1 tombol\Lampu Andong\Lampu Andong\obj\Debug\AxInterop.WMPLib.dll
+D:\5 Kerja\Riset Bersama\2015-2017\170603 JAI 1000\170823 Pak Lani Display Andong\Progam\PROBLEM 16 Januari 1 tombol\Lampu Andong\Lampu Andong\obj\Debug\Lampu Andong.csproj.ResolveComReference.cache
+D:\5 Kerja\Riset Bersama\2015-2017\170603 JAI 1000\170823 Pak Lani Display Andong\Progam\PROBLEM 16 Januari 1 tombol\Lampu Andong\Lampu Andong\obj\Debug\Lampu_Andong.Form1.resources
+D:\5 Kerja\Riset Bersama\2015-2017\170603 JAI 1000\170823 Pak Lani Display Andong\Progam\PROBLEM 16 Januari 1 tombol\Lampu Andong\Lampu Andong\obj\Debug\Lampu_Andong.FormSetting.resources
+D:\5 Kerja\Riset Bersama\2015-2017\170603 JAI 1000\170823 Pak Lani Display Andong\Progam\PROBLEM 16 Januari 1 tombol\Lampu Andong\Lampu Andong\obj\Debug\Lampu_Andong.Properties.Resources.resources
+D:\5 Kerja\Riset Bersama\2015-2017\170603 JAI 1000\170823 Pak Lani Display Andong\Progam\PROBLEM 16 Januari 1 tombol\Lampu Andong\Lampu Andong\obj\Debug\Lampu Andong.csproj.GenerateResource.cache
+D:\5 Kerja\Riset Bersama\2015-2017\170603 JAI 1000\170823 Pak Lani Display Andong\Progam\PROBLEM 16 Januari 1 tombol\Lampu Andong\Lampu Andong\obj\Debug\Lampu Andong.csproj.CoreCompileInputs.cache
+D:\5 Kerja\Riset Bersama\2015-2017\170603 JAI 1000\170823 Pak Lani Display Andong\Progam\PROBLEM 16 Januari 1 tombol\Lampu Andong\Lampu Andong\obj\Debug\Lampu Andong.csproj.CopyComplete
+D:\5 Kerja\Riset Bersama\2015-2017\170603 JAI 1000\170823 Pak Lani Display Andong\Progam\PROBLEM 16 Januari 1 tombol\Lampu Andong\Lampu Andong\obj\Debug\Lampu Andong.exe
+D:\5 Kerja\Riset Bersama\2015-2017\170603 JAI 1000\170823 Pak Lani Display Andong\Progam\PROBLEM 16 Januari 1 tombol\Lampu Andong\Lampu Andong\obj\Debug\Lampu Andong.pdb
+E:\Kerja\0318 Anin\Lampu Andong\Lampu Andong\bin\Debug\Lampu Andong.exe.config
+E:\Kerja\0318 Anin\Lampu Andong\Lampu Andong\bin\Debug\Lampu Andong.exe
+E:\Kerja\0318 Anin\Lampu Andong\Lampu Andong\bin\Debug\Lampu Andong.pdb
+E:\Kerja\0318 Anin\Lampu Andong\Lampu Andong\bin\Debug\Interop.WMPLib.dll
+E:\Kerja\0318 Anin\Lampu Andong\Lampu Andong\bin\Debug\AxInterop.WMPLib.dll
+E:\Kerja\0318 Anin\Lampu Andong\Lampu Andong\obj\Debug\Lampu Andong.csprojAssemblyReference.cache
+E:\Kerja\0318 Anin\Lampu Andong\Lampu Andong\obj\Debug\Interop.WMPLib.dll
+E:\Kerja\0318 Anin\Lampu Andong\Lampu Andong\obj\Debug\AxInterop.WMPLib.dll
+E:\Kerja\0318 Anin\Lampu Andong\Lampu Andong\obj\Debug\Lampu Andong.csproj.ResolveComReference.cache
+E:\Kerja\0318 Anin\Lampu Andong\Lampu Andong\obj\Debug\Lampu_Andong.Form1.resources
+E:\Kerja\0318 Anin\Lampu Andong\Lampu Andong\obj\Debug\Lampu_Andong.FormSetting.resources
+E:\Kerja\0318 Anin\Lampu Andong\Lampu Andong\obj\Debug\Lampu_Andong.Properties.Resources.resources
+E:\Kerja\0318 Anin\Lampu Andong\Lampu Andong\obj\Debug\Lampu Andong.csproj.GenerateResource.cache
+E:\Kerja\0318 Anin\Lampu Andong\Lampu Andong\obj\Debug\Lampu Andong.csproj.CoreCompileInputs.cache
+E:\Kerja\0318 Anin\Lampu Andong\Lampu Andong\obj\Debug\Lampu Andong.csproj.CopyComplete
+E:\Kerja\0318 Anin\Lampu Andong\Lampu Andong\obj\Debug\Lampu Andong.exe
+E:\Kerja\0318 Anin\Lampu Andong\Lampu Andong\obj\Debug\Lampu Andong.pdb
+E:\Kerja\0318 Anin\Lampu Andong\Lampu Andong\bin\Debug\ZedGraph.dll
+E:\Kerja\0318 Anin DONE\Lampu Andong\Lampu Andong\bin\Debug\ZedGraph.dll
+E:\Kerja\0318 Anin DONE\Lampu Andong\Lampu Andong\bin\Debug\Interop.WMPLib.dll
+E:\Kerja\0318 Anin DONE\Lampu Andong\Lampu Andong\bin\Debug\AxInterop.WMPLib.dll
+E:\Kerja\0318 Anin DONE\Lampu Andong\Lampu Andong\obj\Debug\Lampu Andong.csprojAssemblyReference.cache
+E:\Kerja\0318 Anin DONE\Lampu Andong\Lampu Andong\obj\Debug\Interop.WMPLib.dll
+E:\Kerja\0318 Anin DONE\Lampu Andong\Lampu Andong\obj\Debug\AxInterop.WMPLib.dll
+E:\Kerja\0318 Anin DONE\Lampu Andong\Lampu Andong\obj\Debug\Lampu Andong.csproj.ResolveComReference.cache
+E:\Kerja\0318 Anin DONE\Lampu Andong\Lampu Andong\obj\Debug\Lampu_Andong.FormSetting.resources
+E:\Kerja\0318 Anin DONE\Lampu Andong\Lampu Andong\obj\Debug\Lampu Andong.csproj.GenerateResource.cache
+E:\Kerja\0318 Anin DONE\Lampu Andong\Lampu Andong\obj\Debug\Lampu Andong.csproj.CoreCompileInputs.cache
+E:\Kerja\0318 Anin DONE\Lampu Andong\Lampu Andong\obj\Debug\Lampu Andong.csproj.CopyComplete
+E:\Kerja\0318 Anin DONE\Lampu Andong\Lampu Andong\obj\Debug\Skripsi.Properties.Resources.resources
+E:\Kerja\0318 Anin DONE\Lampu Andong\Lampu Andong\bin\Debug\Skripsi.exe.config
+E:\Kerja\0318 Anin DONE\Lampu Andong\Lampu Andong\bin\Debug\Skripsi.exe
+E:\Kerja\0318 Anin DONE\Lampu Andong\Lampu Andong\bin\Debug\Skripsi.pdb
+E:\Kerja\0318 Anin DONE\Lampu Andong\Lampu Andong\obj\Debug\Skripsi.exe
+E:\Kerja\0318 Anin DONE\Lampu Andong\Lampu Andong\obj\Debug\Skripsi.pdb

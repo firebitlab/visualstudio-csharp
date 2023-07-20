@@ -1,0 +1,17 @@
+E:\Kerja\0318 Anin DONE\Lampu Andong\Lampu Andong\bin\Debug\Skripsi.exe.config
+E:\Kerja\0318 Anin DONE\Lampu Andong\Lampu Andong\bin\Debug\Skripsi.exe
+E:\Kerja\0318 Anin DONE\Lampu Andong\Lampu Andong\bin\Debug\Skripsi.pdb
+E:\Kerja\0318 Anin DONE\Lampu Andong\Lampu Andong\bin\Debug\ZedGraph.dll
+E:\Kerja\0318 Anin DONE\Lampu Andong\Lampu Andong\bin\Debug\Interop.WMPLib.dll
+E:\Kerja\0318 Anin DONE\Lampu Andong\Lampu Andong\bin\Debug\AxInterop.WMPLib.dll
+E:\Kerja\0318 Anin DONE\Lampu Andong\Lampu Andong\obj\Debug\Interop.WMPLib.dll
+E:\Kerja\0318 Anin DONE\Lampu Andong\Lampu Andong\obj\Debug\AxInterop.WMPLib.dll
+E:\Kerja\0318 Anin DONE\Lampu Andong\Lampu Andong\obj\Debug\Skripsi.csproj.ResolveComReference.cache
+E:\Kerja\0318 Anin DONE\Lampu Andong\Lampu Andong\obj\Debug\Lampu_Andong.FormSetting.resources
+E:\Kerja\0318 Anin DONE\Lampu Andong\Lampu Andong\obj\Debug\Skripsi.Properties.Resources.resources
+E:\Kerja\0318 Anin DONE\Lampu Andong\Lampu Andong\obj\Debug\Skripsi.csproj.GenerateResource.cache
+E:\Kerja\0318 Anin DONE\Lampu Andong\Lampu Andong\obj\Debug\Skripsi.csproj.CoreCompileInputs.cache
+E:\Kerja\0318 Anin DONE\Lampu Andong\Lampu Andong\obj\Debug\Skripsi.csproj.CopyComplete
+E:\Kerja\0318 Anin DONE\Lampu Andong\Lampu Andong\obj\Debug\Skripsi.exe
+E:\Kerja\0318 Anin DONE\Lampu Andong\Lampu Andong\obj\Debug\Skripsi.pdb
+E:\Kerja\0318 Anin DONE\Lampu Andong\Lampu Andong\obj\Debug\Skripsi.csprojAssemblyReference.cache

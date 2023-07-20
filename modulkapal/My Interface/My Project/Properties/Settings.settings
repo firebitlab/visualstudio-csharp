@@ -1,0 +1,138 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Lampu_Andong.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="mesin1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Tombol1</Value>
+    </Setting>
+    <Setting Name="mesin2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Tombol2</Value>
+    </Setting>
+    <Setting Name="mesin3" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Tombol3</Value>
+    </Setting>
+    <Setting Name="mesin4" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Tombol4</Value>
+    </Setting>
+    <Setting Name="mesin5" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Tombol5</Value>
+    </Setting>
+    <Setting Name="mesin6" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Tombol6</Value>
+    </Setting>
+    <Setting Name="mesin7" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Tombol7</Value>
+    </Setting>
+    <Setting Name="mesin8" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Tombol8</Value>
+    </Setting>
+    <Setting Name="mesin9" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Tombol9</Value>
+    </Setting>
+    <Setting Name="mesin10" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Tombol10</Value>
+    </Setting>
+    <Setting Name="mesin11" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Tombol11</Value>
+    </Setting>
+    <Setting Name="mesin12" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Tombol12</Value>
+    </Setting>
+    <Setting Name="mesin13" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Tombol13</Value>
+    </Setting>
+    <Setting Name="mesin14" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Tombol14</Value>
+    </Setting>
+    <Setting Name="mesin15" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Tombol15</Value>
+    </Setting>
+    <Setting Name="mesin16" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Tombol16</Value>
+    </Setting>
+    <Setting Name="mesin17" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Tombol17</Value>
+    </Setting>
+    <Setting Name="mesin18" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Tombol18</Value>
+    </Setting>
+    <Setting Name="mesin19" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Tombol19</Value>
+    </Setting>
+    <Setting Name="mesin20" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Tombol20</Value>
+    </Setting>
+    <Setting Name="mesin21" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Tombol21</Value>
+    </Setting>
+    <Setting Name="mesin22" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Tombol22</Value>
+    </Setting>
+    <Setting Name="mesin23" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Tombol23</Value>
+    </Setting>
+    <Setting Name="mesin24" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Tombol24</Value>
+    </Setting>
+    <Setting Name="mesin25" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Tombol25</Value>
+    </Setting>
+    <Setting Name="mesin26" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Tombol26</Value>
+    </Setting>
+    <Setting Name="mesin27" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Tombol27</Value>
+    </Setting>
+    <Setting Name="mesin28" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Tombol28</Value>
+    </Setting>
+    <Setting Name="mesin29" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Tombol29</Value>
+    </Setting>
+    <Setting Name="mesin30" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Tombol30</Value>
+    </Setting>
+    <Setting Name="mesin31" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Tombol31</Value>
+    </Setting>
+    <Setting Name="mesin32" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Tombol32</Value>
+    </Setting>
+    <Setting Name="mesin33" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Tombol33</Value>
+    </Setting>
+    <Setting Name="mesin34" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Tombol34</Value>
+    </Setting>
+    <Setting Name="mesin35" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Tombol35</Value>
+    </Setting>
+    <Setting Name="mesin36" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Tombol36</Value>
+    </Setting>
+    <Setting Name="mesin37" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Tombol37</Value>
+    </Setting>
+    <Setting Name="mesin38" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Tombol38</Value>
+    </Setting>
+    <Setting Name="mesin39" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Tombol39</Value>
+    </Setting>
+    <Setting Name="mesin40" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Tombol40</Value>
+    </Setting>
+    <Setting Name="Username" Type="System.String" Scope="User">
+      <Value Profile="(Default)">user</Value>
+    </Setting>
+    <Setting Name="Passworduser" Type="System.String" Scope="User">
+      <Value Profile="(Default)">user</Value>
+    </Setting>
+    <Setting Name="masteruser" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1276</Value>
+    </Setting>
+    <Setting Name="masterpassword" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1276</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
